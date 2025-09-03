@@ -1,3 +1,4 @@
+..
 <a href="https://www.magepal.com" title="Magento 2.0 Extensions" ><img src="https://image.ibb.co/dHBkYH/Magepal_logo.png" width="100" align="right" alt="Magento Extensions for Ecommerce" /></a>
 
 # Guest to Customer for Magento 2.0
